@@ -14,9 +14,9 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata = {
-  title: "Uttkarsh Yadav | Frontend Developer",
+  title: "Utakarsh Yadav | Frontend Developer",
   description:
-    "Portfolio of Uttkarsh Yadav - Frontend Developer specializing in React.js, Next.js and modern web applications.",
+    "Portfolio of Utakarsh Yadav - Frontend Developer specializing in React.js, Next.js and modern web applications.",
 };
 
 export default function RootLayout({ children }) {
