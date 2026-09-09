@@ -60,7 +60,7 @@ export default function Navbar() {
 
             <div className="leading-tight">
               <h1 className="text-xl font-bold text-white">
-                UTTKARSH
+                UTAKARSH
               </h1>
 
               <p className="text-xs text-cyan-400 tracking-[3px]">
